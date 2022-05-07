@@ -1,0 +1,23 @@
+site_name: MyLatihan Manual
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  font:
+    text: Roboto
+  palette:
+    primary: indigo  
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - Getting Started:
+    - Akses Sistem: access_system.md
+  - Home: index.md
+  - About:
+    - About Nest: about.md
+  - Records Management : record_management.md
+  - Login: login.md
