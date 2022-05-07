@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - main
-with:
-  token: ${{ secrets.GH_TOKEN }}
 jobs:
   deploy:
     runs-on: ubuntu-latest
