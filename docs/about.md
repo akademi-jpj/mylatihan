@@ -10,7 +10,7 @@ some_url: https://example.com
 
 # About Page
 
-Please see the [project license](login.md) for further details.
+Please see the [project license](login.md) for further details. (Update)
 
 ![Stamping](img/stamping.jpg)
 
