@@ -2,7 +2,11 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Pengenalan 
+
+Mylatihan merupakan sistem untuk mengemaskini latihan-latihan yang telah dihadiri oleh kakitangan JPJ Malaysia.
+
+Manual ini menyediakan panduan kepada anda sebagai bahan rujukan.
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
